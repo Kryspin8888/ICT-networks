@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\studia\sieci teleinformatyczne\snifferc++\snifferc++\source.cpp(97): warning C4473: 'fprintf' : not enough arguments passed for format string
+  d:\studia\sieci teleinformatyczne\snifferc++\snifferc++\source.cpp(97): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  d:\studia\sieci teleinformatyczne\snifferc++\snifferc++\source.cpp(97): note: the missing variadic argument 1 is required by format string '%s'
+Source.obj : error LNK2019: unresolved external symbol __imp__ntohs@4 referenced in function "void __cdecl packet_handler(unsigned char *,struct pcap_pkthdr const *,unsigned char const *)" (?packet_handler@@YAXPAEPBUpcap_pkthdr@@PBE@Z)
+D:\Studia\Sieci teleinformatyczne\SnifferC++\Debug\SnifferC++.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,6 @@
+D:\Studia\Sieci teleinformatyczne\Grafy\Grafy\bin\Debug\Grafy.exe.config
+D:\Studia\Sieci teleinformatyczne\Grafy\Grafy\bin\Debug\Grafy.exe
+D:\Studia\Sieci teleinformatyczne\Grafy\Grafy\bin\Debug\Grafy.pdb
+D:\Studia\Sieci teleinformatyczne\Grafy\Grafy\obj\Debug\Grafy.exe
+D:\Studia\Sieci teleinformatyczne\Grafy\Grafy\obj\Debug\Grafy.pdb
+D:\Studia\Sieci teleinformatyczne\Grafy\Grafy\obj\Debug\Grafy.csprojResolveAssemblyReference.cache

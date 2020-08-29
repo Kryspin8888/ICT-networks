@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\studia\sieci teleinformatyczne\pakiety\pakiety\source.cpp(24): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+d:\studia\sieci teleinformatyczne\pakiety\pakiety\source.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pakiety.vcxproj -> D:\Studia\Sieci teleinformatyczne\Pakiety\Debug\Pakiety.exe
+  Pakiety.vcxproj -> D:\Studia\Sieci teleinformatyczne\Pakiety\Debug\Pakiety.pdb (Partial PDB)

@@ -1,0 +1,14 @@
+﻿  Source.cpp
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(167): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(209): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(214): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(289): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+d:\studia\sieci teleinformatyczne\zapobieganie bledow\zapobieganie bledow\source.cpp(352): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  Zapobieganie bledow.vcxproj -> D:\Studia\Sieci teleinformatyczne\Zapobieganie bledow\Debug\Zapobieganie bledow.exe
+  Zapobieganie bledow.vcxproj -> D:\Studia\Sieci teleinformatyczne\Zapobieganie bledow\Debug\Zapobieganie bledow.pdb (Partial PDB)
